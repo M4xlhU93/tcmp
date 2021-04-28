@@ -201,8 +201,8 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 }
 
 .testimonials-slider .swiper-pagination .swiper-pagination-bullet {
-  width: 12px;
-  height: 12px;
+  width: 36px;
+  height: 36px;
   background-color: rgba(13, 30, 45, 0.3);
   opacity: 1;
 }
@@ -215,7 +215,6 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   position: sticky;
   position: -webkit-sticky;
   top: 0;
-  /* required */
 }
 
 .list-line li {
