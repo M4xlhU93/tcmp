@@ -26,6 +26,13 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   font-family: "Raleway", sans-serif;
 }
 
+.goldcolor {
+  font-weight: bold;
+  background-image: linear-gradient(#462523, #cb9b51 22%, #f6e27a 45%, #f6f2c0 50%, #f6e27a 55%, #cb9b51 78%, #462523 100%);
+  color: transparent;
+  -webkit-background-clip: text;
+}
+
 .section {
   padding: 7rem 0;
 }
