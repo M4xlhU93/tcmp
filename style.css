@@ -26,24 +26,6 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   font-family: "Raleway", sans-serif;
 }
 
-.titleeffect {
-  $color: #d0ab76;
-  color: $color;
-  
-  &:hover {
-    animation: halftone 1s forwards;
-    background: radial-gradient(circle, $color 0.2em, transparent 0.25em) 0 0 / 1.25em 1.25em
-              , radial-gradient(circle, $color 0.2em, transparent 0.25em) 6.25em 6.25em / 1.25em 1.25em;
-    color: #dcdcdc;
-  }
-}
-
-@keyframes halftone {
-  100% {
-    background-size: 2.375em 2.375em, 0.1em 0.1em;
-  }
-}
-
 .section {
   padding: 7rem 0;
 }
