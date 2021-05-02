@@ -141,7 +141,7 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 }
 
 .testimonial-wrap {
-  padding: 50px 50px 40px 50px;
+  padding: 50px 50px 30px 50px;
   background: #eceff2;
 }
 
@@ -154,7 +154,7 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 .testimonial-wrap .testimonial img {
   border-radius: 50%;
   width: 360px;
-  margin: 0 auto 30px;
+  margin: 0 auto 50px;
 }
 
 /*.testimonial-wrap .testimonial blockquote p {
